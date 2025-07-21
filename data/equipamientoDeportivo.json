@@ -1,0 +1,154 @@
+[
+  {
+    "IdProducto": "PRO0005",
+    "Nombre": "Castillo plegable de básquet profesional",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0005_0.jpg",
+    "Estado": "Vigente",
+    "slug": "castillo-plegable-de-basquet-profesional",
+    "fotos": [
+      "/assets/images/productos/PRO0005_1.jpg"
+    ]
+  },
+  {
+    "IdProducto": "PRO0006",
+    "Nombre": "Castillo rodante con 4 tableros",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0006_0.jpg",
+    "Estado": "Vigente",
+    "slug": "castillo-rodante-con-4-tableros",
+    "fotos": [
+      "/assets/images/productos/PRO0006_1.jpg"
+    ]
+  },
+  {
+    "IdProducto": "PRO0001",
+    "Nombre": "Castillo rodante de básquet",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:17",
+    "Foto": "/assets/images/productos/PRO0001_0.jpg",
+    "Estado": "Vigente",
+    "slug": "castillo-rodante-de-basquet",
+    "fotos": [
+      "/assets/images/productos/PRO0001_1.jpg"
+    ]
+  },
+  {
+    "IdProducto": "PRO0002",
+    "Nombre": "Castillo rodante, sistema de 3 posiciones",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:17",
+    "Foto": "/assets/images/productos/PRO0002_0.jpg",
+    "Estado": "Vigente",
+    "slug": "castillo-rodante-sistema-de-3-posiciones",
+    "fotos": [
+      "/assets/images/productos/PRO0002_1.jpg",
+      "/assets/images/productos/PRO0002_2.jpg",
+      "/assets/images/productos/PRO0002_3.jpg",
+      "/assets/images/productos/PRO0002_4.jpg",
+      "/assets/images/productos/PRO0002_5.jpg",
+      "/assets/images/productos/PRO0002_6.jpg"
+    ]
+  },
+  {
+    "IdProducto": "PRO0003",
+    "Nombre": "Estructura fija con tablero de vidrio",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:17",
+    "Foto": "/assets/images/productos/PRO0003_0.jpg",
+    "Estado": "Vigente",
+    "slug": "estructura-fija-con-tablero-de-vidrio"
+  },
+  {
+    "IdProducto": "PRO0004",
+    "Nombre": "Castillo de básquet hecho en acrílico",
+    "TipoProducto": "basketball",
+    "Creado": "Martes 20 de Mayo 2025 09:29:17",
+    "Foto": "/assets/images/productos/PRO0004_0.jpg",
+    "Estado": "Vigente",
+    "slug": "castillo-de-basquet-hecho-en-acrilico"
+  },
+  {
+    "IdProducto": "PRO0007",
+    "Nombre": "Arco de fútbol profesional",
+    "TipoProducto": "futbol",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0007_0.jpg",
+    "Estado": "Vigente",
+    "slug": "arco-de-futbol-profesional"
+  },
+  {
+    "IdProducto": "PRO0008",
+    "Nombre": "Arco de balonmano profesional",
+    "TipoProducto": "futbol",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0008_0.jpg",
+    "Estado": "Vigente",
+    "slug": "arco-de-balonmano-profesional"
+  },
+  {
+    "IdProducto": "PRO0009",
+    "Nombre": "Arco de futsal profesional",
+    "TipoProducto": "futbol",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0009_0.jpg",
+    "Estado": "Vigente",
+    "slug": "arco-de-futsal-profesional"
+  },
+  {
+    "IdProducto": "PRO0010",
+    "Nombre": "Parantes de vóley",
+    "TipoProducto": "voley",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0010_0.jpg",
+    "Estado": "Vigente",
+    "slug": "parantes-de-voley"
+  },
+  {
+    "IdProducto": "PRO0011",
+    "Nombre": "Torre de árbitro",
+    "TipoProducto": "voley",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0011_0.jpg",
+    "Estado": "Vigente",
+    "slug": "torre-de-arbitro"
+  },
+  {
+    "IdProducto": "PRO0012",
+    "Nombre": "Marcador electrónico",
+    "TipoProducto": "otros",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0012_0.jpg",
+    "Estado": "Vigente",
+    "slug": "marcador-electronico"
+  },
+  {
+    "IdProducto": "PRO0013",
+    "Nombre": "Marcador de 24 segundos",
+    "TipoProducto": "otros",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0013_0.jpg",
+    "Estado": "Vigente",
+    "slug": "marcador-de-24-segundos"
+  },
+  {
+    "IdProducto": "PRO0014",
+    "Nombre": "Carrito portabalones de básquet",
+    "TipoProducto": "otros",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0014_0.jpg",
+    "Estado": "Vigente",
+    "slug": "carrito-portabalones-de-basquet"
+  },
+  {
+    "IdProducto": "PRO0015",
+    "Nombre": "Carrito portabalones",
+    "TipoProducto": "otros",
+    "Creado": "Martes 20 de Mayo 2025 09:29:18",
+    "Foto": "/assets/images/productos/PRO0015_0.jpg",
+    "Estado": "Vigente",
+    "slug": "carrito-portabalones"
+  }
+]
