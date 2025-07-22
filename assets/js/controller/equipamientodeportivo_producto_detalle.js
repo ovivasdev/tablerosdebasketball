@@ -3,7 +3,6 @@
 	"use strict";
 	//Invoco
 	setTimeout(function(){Detalle();}, 1000);
-	setTimeout(function(){ListarFotos();}, 2000);
 	
 	//============================================================================
 	
@@ -72,54 +71,4 @@
 		
 	}
 	
-	//============================================================================
-	
-	function ListarFotos(params){
-		
-		//Asigando un valor por defecto si la variable de entrada esta vacia.
-		var token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MTY0NzI0OTAsImlkVXN1YXJpbyI6IlVTVTAwMDEifQ.RrQIhW5hsKpa_ABhFRp3kMP1smondq7nO4nd8cOrcPs';
-		var idProducto = $("#detail").attr("idProducto");
-		params || (params={idRegistro:idProducto,token:token});
-		
-		$.ajax({
-			url: $.ApiRoute("/foto/listar-by-idregistro"),
-			type: "POST",
-			data: params,
-			beforeSend: function(){
-				$("#horizontalTab").html("Cargando...");
-			}
-		})
-		.done(function(response){
-
-			if (response.success) {
-
-				var output="";
-				var i = 1;
-				$.each(response.data.items, function(key, value) {
-					
-					output += '<div class="col-md-4 wow fadeInLeft portfolio-grids portfolio-grid4" data-wow-duration="2s">';
-					output += '<a href="'+value.Descripcion+'" data-lightbox="example-set" data-title="'+$(document).find("title").text()+'">';
-					output += '<img src="'+value.Descripcion+'" class="img-responsive zoom-img"/>';
-					output += '<div class="b-wrapper">';
-					output += '<h5><i class="fa fa-arrows-alt"></i></h5>';
-					output += '</div>';
-					output += '</a>';
-					output += '</div>';
-					i++;
-					
-				});
-
-				$("#galeriaPhotos").html(output);
-				
-			} else {
-				console.log("No se obtuvieron resultados del servidor");
-			}
-
-		})
-		.fail( function(jqXHR,textStatus){
-			console.log("Error del servidor: "+textStatus);
-		});
-		
-	}
-
 })(window.$); // JavaScript Document

@@ -2,7 +2,7 @@
 
 	"use strict";
 	$.ApiRoute = function(r){
-		return "https://tablerosdebasketball.com/api"+r;
+		return ""+r;
 	};
  
  })(window.$); // JavaScript Document
